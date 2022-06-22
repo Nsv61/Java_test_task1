@@ -37,3 +37,9 @@ public class DZ1 {
 
     }
 }
+
+// А вот как это на Python - Преподаватель, простите меня !
+
+//  import random as rnd
+//  lst = [rnd.random() for _ in range(10)]
+//  print(F'Минимальное значение {min(lst)}, максимальное значение {max(lst)}, среднее значение {sum(lst)/len(lst)}')
