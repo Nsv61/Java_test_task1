@@ -2,7 +2,7 @@ package HomeWork.DZ3;
 
 public class DZ3 {
     public static void main(String[] args) {
-        User user1 = new User("Денис", "Растегаев", 42, "Drastegaev", "sdfsdfjk756", "ООО ПТ");
+        User user1 = new User("Сергей", "Нинбург", 42, "SNinburg", "sdfsdfjk756", "ООО ПТ");
         user1.Say();
         user1.Go();
         user1.Drink();
